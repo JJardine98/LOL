@@ -153,9 +153,9 @@
         "questsCompleted": 0,
         "raidsAttended": 8
       },
-      "achievements": ["Arena's Smallest Smasher", "Timbermaw Ghost Runner", "You Can Talk!", "Quest Master", "First Blood"],
+      "achievements": ["Timbermaw Ghost Runner", "You Can Talk!", "Quest Master", "First Blood"],
       "pets": [],
-      "titles": ["Arena's Smallest Smasher"],
+      "titles": [],
       "factionsExalted": []
     },
 
@@ -274,8 +274,66 @@
       "pets": [],
       "titles": ["Arena's Smallest Smasher"],
       "factionsExalted": []
+    },
+    {
+      "characterName": "Hengel",
+      "class": "Paladin",
+      "race": "Human",
+      "guildRank": "Initiate",
+      "stats": {
+        "hk": 0,
+        "questsCompleted": 0,
+        "raidsAttended": 0
+      },
+      "achievements": [],
+      "pets": [],
+      "titles": [],
+      "factionsExalted": []
+    },
+    {
+      "characterName": "Boccino",
+      "class": "Rogue",
+      "race": "Human",
+      "guildRank": "Initiate",
+      "stats": {
+        "hk": 0,
+        "questsCompleted": 0,
+        "raidsAttended": 0
+      },
+      "achievements": [],
+      "pets": [],
+      "titles": [],
+      "factionsExalted": []
+    },
+    {
+      "characterName": "Zulverine",
+      "class": "Warrior",
+      "race": "Troll",
+      "guildRank": "Initiate",
+      "stats": {
+        "hk": 0,
+        "questsCompleted": 0,
+        "raidsAttended": 0
+      },
+      "achievements": [],
+      "pets": [],
+      "titles": [],
+      "factionsExalted": []
+    },
+    {
+      "characterName": "Tofuskin",
+      "class": "Rogue",
+      "race": "Human",
+      "guildRank": "Initiate",
+      "stats": {
+        "hk": 0,
+        "questsCompleted": 0,
+        "raidsAttended": 0
+      },
+      "achievements": [],
+      "pets": [],
+      "titles": [],
+      "factionsExalted": []
     }
-
-    
 
   ]
