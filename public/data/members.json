@@ -1,0 +1,281 @@
+[
+    {
+      "characterName": "Solutions",
+      "class": "Hunter",
+      "race": "Night Elf",
+      "guildRank": "Initiate",
+      "stats": {
+        "hk": 11,
+        "questsCompleted": 41,
+        "raidsAttended": 8
+      },
+      "achievements": ["First Blood", "Dungeon Conqueror", "You Can Talk!", "Arena's Smallest Smasher", "Timbermaw Ghost Runner"],
+      "pets": [],
+      "titles": ["Arena's Smallest Smasher"],
+      "factionsExalted": []
+    },
+    
+    {
+      "characterName": "Cysthetic",
+      "class": "Paladin",
+      "race": "Human",
+      "guildRank": "Co-Leader",
+      "stats": {
+        "hk": 0,
+        "questsCompleted": 0,
+        "raidsAttended": 39
+      },
+      "achievements": ["Tinyfin Angler", "Quest Master", "You Can Talk!", "Arena's Smallest Smasher", "Timbermaw Ghost Runner", "Lucky Fishing Hat", "Pagle's Chosen Angler"],
+      "pets": [],
+      "titles": ["Arena's Smallest Smasher"],
+      "factionsExalted": []
+    },  
+
+    {
+      "characterName": "Buttbunny",
+      "class": "Rogue",
+      "race": "High Elf",
+      "guildRank": "Lunatic",
+      "stats": {
+        "hk": 0,
+        "questsCompleted": 0,
+        "raidsAttended": 26
+      },
+      "achievements": ["Arena's Smallest Smasher", "Timbermaw Ghost Runner", "You Can Talk!", "Quest Master", "First Blood", "Lucky Fishing Hat", "Pagle's Chosen Angler"],
+      "pets": [],
+      "titles": ["Arena's Smallest Smasher"],
+      "factionsExalted": []
+    },
+
+    {
+      "characterName": "Lululunatic",
+      "class": "Shaman",
+      "race": "Tauren",
+      "guildRank": "Lunatic",
+      "stats": {
+        "hk": 0,
+        "questsCompleted": 0,
+        "raidsAttended": 0
+      },
+      "achievements": ["Arena's Smallest Smasher", "Timbermaw Ghost Runner", "You Can Talk!", "Quest Master", "First Blood", "Lucky Fishing Hat", "Pagle's Chosen Angler"],
+      "pets": [],
+      "titles": ["Arena's Smallest Smasher"],
+      "factionsExalted": []
+    },
+
+    {
+      "characterName": "Taksman",
+      "class": "Hunter",
+      "race": "Night Elf",
+      "guildRank": "Practitioner",
+      "stats": {
+        "hk": 0,
+        "questsCompleted": 0,
+        "raidsAttended": 17
+      },
+      "achievements": ["Arena's Smallest Smasher", "Timbermaw Ghost Runner", "You Can Talk!", "Quest Master", "First Blood"],
+      "pets": [],
+      "titles": ["Arena's Smallest Smasher"],
+      "factionsExalted": []
+    },
+
+    {
+      "characterName": "Kaylunatic",
+      "class": "Warlock",
+      "race": "Human",
+      "guildRank": "Practitioner",
+      "stats": {
+        "hk": 0,
+        "questsCompleted": 0,
+        "raidsAttended": 14
+      },
+      "achievements": ["Arena's Smallest Smasher", "Timbermaw Ghost Runner", "You Can Talk!", "Quest Master", "First Blood", "Lucky Fishing Hat"],
+      "pets": [],
+      "titles": ["Arena's Smallest Smasher"],
+      "factionsExalted": []
+    },
+
+    {
+      "characterName": "Lunaluna",
+      "class": "Rogue",
+      "race": "Night Elf",  
+      "guildRank": "Initiate",
+      "stats": {
+        "hk": 0,
+        "questsCompleted": 0,
+        "raidsAttended": 4
+      },
+      "achievements": ["Arena's Smallest Smasher", "Timbermaw Ghost Runner", "You Can Talk!", "Quest Master", "First Blood"],
+      "pets": [],
+      "titles": ["Arena's Smallest Smasher"],
+      "factionsExalted": []
+    },
+
+    {
+      "characterName": "Belex",
+      "class": "Rogue",
+      "race": "Night Elf",  
+      "guildRank": "Initiate",
+      "stats": {
+        "hk": 0,
+        "questsCompleted": 0,
+        "raidsAttended": 5
+      },
+      "achievements": ["Arena's Smallest Smasher", "Timbermaw Ghost Runner", "You Can Talk!", "Quest Master", "First Blood"],
+      "pets": [],
+      "titles": ["Arena's Smallest Smasher"],
+      "factionsExalted": []
+    },
+
+    {
+      "characterName": "Lyssaam",
+      "class": "Priest",
+      "race": "High Elf",  
+      "guildRank": "Practitioner",
+      "stats": {
+        "hk": 0,
+        "questsCompleted": 0,
+        "raidsAttended": 8
+      },
+      "achievements": ["Arena's Smallest Smasher", "Timbermaw Ghost Runner", "You Can Talk!", "Quest Master", "First Blood"],
+      "pets": [],
+      "titles": ["Arena's Smallest Smasher"],
+      "factionsExalted": []
+    },
+
+    {
+      "characterName": "Theonehunter",
+      "class": "Hunter",
+      "race": "Night Elf",  
+      "guildRank": "Practitioner",
+      "stats": {
+        "hk": 0,
+        "questsCompleted": 0,
+        "raidsAttended": 8
+      },
+      "achievements": ["Arena's Smallest Smasher", "Timbermaw Ghost Runner", "You Can Talk!", "Quest Master", "First Blood"],
+      "pets": [],
+      "titles": ["Arena's Smallest Smasher"],
+      "factionsExalted": []
+    },
+
+    {
+      "characterName": "Sponsor",
+      "class": "Mage",
+      "race": "Gnome",  
+      "guildRank": "Lunatic",
+      "stats": {
+        "hk": 1170,
+        "questsCompleted": 71,
+        "raidsAttended": 3
+      },
+      "achievements": ["Arena's Smallest Smasher", "Timbermaw Ghost Runner", "You Can Talk!", "Quest Master", "First Blood", "Pint-Sized Politician", "Lucky Fishing Hat"],
+      "pets": ["test","test","test","test","test","test","test"],
+      "mounts": ["Crimson Spectral Tiger"],
+      "titles": ["Arena's Smallest Smasher", "Pint-Sized Politician"],
+      "factionsExalted": ["Silvermoon Remnant", "Durotar Labour Union (Technically)"]
+    },
+    
+    
+    {
+      "characterName": "Luciejayne",
+      "class": "Rogue",
+      "race": "Gnome",  
+      "guildRank": "Practitioner",
+      "stats": {
+        "hk": 0,
+        "questsCompleted": 0,
+        "raidsAttended": 4
+      },
+      "achievements": ["Arena's Smallest Smasher", "Timbermaw Ghost Runner", "You Can Talk!", "Quest Master", "First Blood", "Lucky Fishing Hat", "Tinyfin Angler", "Pagle's Chosen Angler"],
+      "pets": [],
+      "titles": ["Arena's Smallest Smasher"],
+      "factionsExalted": []
+    },
+    
+    
+    
+    {
+      "characterName": "Pve",
+      "class": "Warrior",
+      "race": "Troll",  
+      "guildRank": "Initiate",
+      "stats": {
+        "hk": 0,
+        "questsCompleted": 0,
+        "raidsAttended": 5
+      },
+      "achievements": ["Arena's Smallest Smasher", "Timbermaw Ghost Runner", "You Can Talk!", "Quest Master", "First Blood"],
+      "pets": [],
+      "titles": ["Arena's Smallest Smasher"],
+      "factionsExalted": []
+    },
+
+    
+    {
+      "characterName": "Madolen",
+      "class": "Priest",
+      "race": "Human",  
+      "guildRank": "Initiate",
+      "stats": {
+        "hk": 0,
+        "questsCompleted": 0,
+        "raidsAttended": 1
+      },
+      "achievements": [],
+      "pets": [],
+      "titles": [],
+      "factionsExalted": []
+    },
+
+    {
+      "characterName": "Stabsmckenzy",
+      "class": "Rogue",
+      "race": "Goblin",  
+      "guildRank": "Leader",
+      "stats": {
+        "hk": 10000,
+        "questsCompleted": 100,
+        "raidsAttended": 5
+      },
+      "achievements": ["Arena's Smallest Smasher", "Timbermaw Ghost Runner", "You Can Talk!", "Quest Master", "First Blood", "Azeroth's Most Unlucky Tourist", "Lunatic"],
+      "pets": [],
+      "titles": ["Lunatic", "Arena's Smallest Smasher", "Azeroth's Most Unlucky Tourist", "Peon of Orgrimmar"],
+      "factionsExalted": []
+    },
+
+    {
+      "characterName": "Shivsmckenzy",
+      "class": "Rogue",
+      "race": "Goblin",  
+      "guildRank": "Lunatic",
+      "stats": {
+        "hk": 0,
+        "questsCompleted": 0,
+        "raidsAttended": 1
+      },
+      "achievements": ["Arena's Smallest Smasher", "Timbermaw Ghost Runner", "You Can Talk!", "Quest Master", "First Blood"],
+      "pets": [],
+      "titles": ["Arena's Smallest Smasher"],
+      "factionsExalted": []
+    },
+
+    {
+      "characterName": "Emitime",
+      "class": "Rogue",
+      "race": "High Elf",  
+      "guildRank": "Initiate",
+      "stats": {
+        "hk": 0,
+        "questsCompleted": 0,
+        "raidsAttended": 6
+      },
+      "achievements": ["Arena's Smallest Smasher", "Timbermaw Ghost Runner", "You Can Talk!", "Quest Master", "First Blood"],
+      "pets": [],
+      "titles": ["Arena's Smallest Smasher"],
+      "factionsExalted": []
+    }
+
+    
+
+  ]

@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+  background-attachment: fixed;
+}
+
+/* WoW-inspired class colors */
+.class-warrior { color: #C79C6E; }
+.class-paladin { color: #F58CBA; }
+.class-hunter { color: #ABD473; }
+.class-rogue { color: #FFF569; }
+.class-priest { color: #FFFFFF; }
+.class-death-knight { color: #C41F3B; }
+.class-shaman { color: #0070DE; }
+.class-mage { color: #69CCF0; }
+.class-warlock { color: #9482C9; }
+.class-druid { color: #FF7D0A; }
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1a2e;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #4a5568;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #718096;
+}
